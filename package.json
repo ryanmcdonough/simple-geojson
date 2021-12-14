@@ -1,0 +1,22 @@
+{
+  "name": "simple-geojson",
+  "version": "1.0.0",
+  "description": "Simple GeoJSON shapes for regions & countries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmcdonough/simple-geojson.git"
+  },
+  "keywords": [
+    "geojson"
+  ],
+  "author": "Ryan McDonough",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmcdonough/simple-geojson/issues"
+  },
+  "homepage": "https://github.com/ryanmcdonough/simple-geojson#readme"
+}
